@@ -1,7 +1,7 @@
 
-Olá, bem vindo.
+<h1>Olá, bem vindo.</h1>
  
-Meu nome é Leonardo Ohara🤚
+<p>Meu nome é Leonardo Ohara🤚</p>
 
 
 Esse é meu perfil no Linkedin -- >[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ohara-38615920a/)
