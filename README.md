@@ -19,7 +19,7 @@ Esse é meu perfil no Linkedin -- >[![Linkedin](https://img.shields.io/badge/Lin
   
 </div>
 
-Trabalhei por mais de 12 anos na area de mecânica automôtiva e de motocicletas.De forma autodidata adquiri diversas habilidades
-no ramo que atuei e agora estou migrando para área da tecnologia. Iniciei com a linguagem Python para entender a logica e atualmente 
-estou estudando a parte de desenvolvimento front-end com as tecnologias html5, css3 e javascript. 
+Cursando Análise e Desenvolvimento de Sistemas (ADS) na São Judas Tadeu, busco me consolidar no mercado de tecnologia, com foco em fortalecer habilidades em lógica de programação. 
+Possuo conhecimentos básicos em HTML, CSS, JS e Python, além de experiência prática em gestão administrativa e marketing, adquirida ao longo de mais de 10 anos no setor de Manutenção e Reparos de veículos e motocicletas. 
+Estou sempre estudando e pesquisando novos materiais para expandir meu conhecimento e desenvolver minhas habilidades técnicas.
 
